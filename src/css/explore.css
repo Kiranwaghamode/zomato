@@ -1,0 +1,10 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: 600;
+}
