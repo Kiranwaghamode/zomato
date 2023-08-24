@@ -1,9 +1,15 @@
 import React from 'react'
 import '../css/restCard.css'
+// import { useMyContext } from '../context/Context';
 // import {restraunts} from '../data/restraunts'
 
 
 export const RestCard = ({resName, imgUrl, cuisine, rating, price, dTime}) => {
+
+
+  
+
+
 
   
   

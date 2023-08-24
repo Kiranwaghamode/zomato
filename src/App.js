@@ -7,7 +7,6 @@ import { Home } from './components/Home';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { TabOptions } from './components/TabOptions';
 import {  MyContextProvider } from './context/Context';
-
 function App() {
   return (
     <div className="App">
